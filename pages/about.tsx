@@ -100,7 +100,7 @@ class About extends React.Component<{}> {
                   <div className='text-28 md:text-36 pt-4 pb-6 font-semibold text-white'>Who am I?</div>
                   <div className='text-18 md:text-22 mb-1'>Hi there</div>
                   My name is Artem Kolodiazhnyi and I&apos;m a Professional Full Stack Developer.<br/>
-                  I have been working in web and mobile development for 8+ years.<br/>
+                  I have been working in web and mobile development for 10+ years.<br/>
                   My projects include building UI for web and mobile, Backend implementation, CMS development, 3rd party API integration, Web crawling, and Blockchain.<br/>
                   <div className='h-3'></div>
                   The things I love:<br/>
